@@ -1,6 +1,6 @@
 # langchain-rag
 
-![langchain rag.](langchain-rag.png "langchain rag")
+![langchain rag.](langchain%20rag.png "langchain rag")
 
 
 to start 
