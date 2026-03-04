@@ -1,0 +1,5 @@
+OLLAMA_BASE_URL = "http://localhost:11434"
+EMBED_MODEL = "nomic-embed-text"
+CHAT_MODEL = "qwen3:4b"
+QDRANT_URL = "http://localhost:6333"
+COLLECTION_NAME = "rag_docs"
